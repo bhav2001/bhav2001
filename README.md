@@ -4,9 +4,9 @@
    - Computer Engineering Student(3rd year)
 
 # Technical skills:
-   - Programming languages- C++, Java, Python, Kotlin
-   - Web technologies- HTML, JavaScript
-   - IDE- Visual studio code
+   - Programming languages- C++, Java, Python
+   - Web technologies- HTML, JavaScript, CSS, Bootstrap
+   - IDE- Visual studio code, Netbeans, Jupyter Notebook
 
 
 
